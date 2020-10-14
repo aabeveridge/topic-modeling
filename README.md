@@ -1,5 +1,5 @@
 # Topic Modeling in R
-The following tutorial builds on chapter 6 in [*Text Mining with R*](https://www.tidytextmining.com/topicmodeling.html). Additionally, this tutorial draws on the TM and ldatuning packages. See the following links for sources refernced in writing the code for this tutorial:
+The following tutorial builds on chapter 6 in [*Text Mining with R*](https://www.tidytextmining.com/topicmodeling.html). Additionally, this tutorial draws on the `tm` and `ldatuning` packages. See the following links for sources referenced when writing the code for this tutorial:
 - <https://cran.r-project.org/web/packages/tm/vignettes/tm.pdf>
 - <https://mran.microsoft.com/snapshot/2016-08-05/web/packages/ldatuning/vignettes/topics.html>
 
